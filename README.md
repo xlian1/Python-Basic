@@ -1,4 +1,13 @@
-# hello-world
-learn how to use it
-This is about how to use the github.
-1.braches
+# Python basic
+This is a file to help me with learn Python, noting what I don't familiar with.
+
+1. Chaining Comparision Operator in Python
+
+  if a < b < c:
+  {...}
+
+
+2.While loop
+  
+  while (condition):
+    statement
