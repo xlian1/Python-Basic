@@ -25,6 +25,29 @@ This is a file to help me with learn Python, noting what I don't familiar with.
   break: jump out of the loop
 
 
-
+5. Iterator
+  A =['cat', 'dog', 'rabbit']
+  
+  a. C-type 
+    for(i > len(A)):
+      print A[i]
+      i += 1
+      
+  b. for each
+    for i in A:
+      print i
+  
+  c. Enumerate
+    for i, x in Enumerate(A, start=1):
+      print i, x
+      
+6. Looping Extensions:
+  Zip function
+    Combining similar iterators at the same ith position
+    
+  
+      
+  
+  
 
 
